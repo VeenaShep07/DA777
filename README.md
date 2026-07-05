@@ -10,7 +10,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 - Python / Google Colab
 - SQL / MySQL Workbench
 - Tableau / Power BI dashboards
-- <br>
+<br>
 <br> 
 
 ## Projects I have completed:
