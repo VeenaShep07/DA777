@@ -34,6 +34,9 @@ When you want the image or file to show inside the README, just uploading the fi
 - [Python task 1](Python_coding.ipynb)
 - [Python coding notebook 2](Untitled22.ipynb)
 
+- <img width="1083" height="520" alt="image" src="https://github.com/user-attachments/assets/20d1f899-164f-4259-b5d4-9608761f621b" />
+
+
 
 
 
