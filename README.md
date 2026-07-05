@@ -27,4 +27,9 @@ When you want the image or file to show inside the README, just uploading the fi
 - [Tableau]
 - [Power BI]
 - [SQL]
+<br>
+<br>
+  
 - [Python]
+[Python task 1](Python_coding.ipynb)
+- 
