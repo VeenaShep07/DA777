@@ -31,9 +31,10 @@ When you want the image or file to show inside the README, just uploading the fi
 <br>
   
 - [Python]
-[Python task 1](Python_coding.ipynb)
-<br>
-[Python coding notebook 2](Untitled22.ipynb)
+- [Python task 1](Python_coding.ipynb)
+- [Python coding notebook 2](Untitled22.ipynb)
+
+
 
 
 
