@@ -14,7 +14,13 @@ I’m building my portfolio to show the projects I created during my DA course.
 <br> 
 
 ## Projects I have completed:
-- [Excel] – short one‑line description
+- Excel – short one‑line description
+  [Excel Task 1](blob/main/Excel_1.png)
+
+  
+<br>
+<br>
+
 - [Tableau]
 - [Power BI]
 - [SQL]
