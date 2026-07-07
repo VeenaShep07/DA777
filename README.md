@@ -43,6 +43,12 @@ When you want the image or file to show inside the README, just uploading the fi
 <br>
 
 [Power BI 1](https://app.powerbi.com/view?r=eyJrIjoiY2YyZjIwOTItMWNmOC00ZWRlLWJmNjgtODVjMWY5NjQxN2I1IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)  
+<br>
+<br>
+<br>
+<br>
+
+[Power BI in HTML Frame](<iframe title="week 2 day 4" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2YyZjIwOTItMWNmOC00ZWRlLWJmNjgtODVjMWY5NjQxN2I1IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9" frameborder="0" allowFullScreen="true"></iframe>  
 
 
 
