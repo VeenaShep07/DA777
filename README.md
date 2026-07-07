@@ -51,6 +51,9 @@ When you want the image or file to show inside the README, just uploading the fi
 [Power BI in HTML Frame](<iframe title="week 2 day 4" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2YyZjIwOTItMWNmOC00ZWRlLWJmNjgtODVjMWY5NjQxN2I1IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9" frameborder="0" allowFullScreen="true"></iframe>) 
 
 
+[Tableau 1](https://public.tableau.com/views/Spotifyv1_17800699505960/Sheet5?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
+
 
 
 
